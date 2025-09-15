@@ -1,2 +1,2 @@
-# TodoList
-# This is my practise of MERN stack Dev
+ TodoList
+ This is my practise of MERN stack Dev
